@@ -1,4 +1,4 @@
-# DL_ASSIGNMENT
+# Description of Files
 
 - CNN best model.ipynb: Notebook with the final (best) model.
 - ADAM_CNN_TEST.ipynb: Notebook with testing the ADAM optimizer.
